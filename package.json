@@ -1,0 +1,25 @@
+{
+  "name": "antd-dashboard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tuhin-cse/antd-dashboard.git",
+  "author": "Sketch <tuhin1714@cseku.ac.bd>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next"
+  },
+  "dependencies": {
+    "antd": "^4.15.0",
+    "autoprefixer": "^10.2.5",
+    "next": "^10.1.3",
+    "postcss": "^8.2.9",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.2.0",
+    "sass": "^1.32.8",
+    "tailwindcss": "^2.0.4"
+  },
+  "devDependencies": {
+    "tailwind-styled-components": "^1.0.7"
+  }
+}
